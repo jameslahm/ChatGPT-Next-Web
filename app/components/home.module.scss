@@ -9,14 +9,13 @@
   background-color: var(--white);
   min-width: 600px;
   min-height: 480px;
-  max-width: 900px;
 
   display: flex;
   overflow: hidden;
   box-sizing: border-box;
 
-  width: var(--window-width);
-  height: var(--window-height);
+  width: 100vw;
+  height: 100vh;
 }
 
 .container {
